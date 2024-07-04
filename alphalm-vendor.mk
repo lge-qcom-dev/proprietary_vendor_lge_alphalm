@@ -561,7 +561,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphalm/proprietary/vendor/lib/camera/liblg_awb_param_imx363n_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/liblg_awb_param_imx363n_video.so \
     vendor/lge/alphalm/proprietary/vendor/lib/camera/liblg_awb_param_imx363nb_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/liblg_awb_param_imx363nb_preview.so \
     vendor/lge/alphalm/proprietary/vendor/lib/camera/liblg_awb_param_imx363nb_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/liblg_awb_param_imx363nb_video.so \
-    vendor/lge/alphalm/proprietary/vendor/lib/hw/audio.primary.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.msmnile.so \
     vendor/lge/alphalm/proprietary/vendor/lib/hw/camera.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.msmnile.so \
     vendor/lge/alphalm/proprietary/vendor/lib/hw/com.qti.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/com.qti.chi.override.so \
     vendor/lge/alphalm/proprietary/vendor/lib/lib.com.lge.elvis.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib.com.lge.elvis.so \
@@ -620,7 +619,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphalm/proprietary/vendor/lib/libsymphonypower-1.1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphonypower-1.1.4.so \
     vendor/lge/alphalm/proprietary/vendor/lib/libsymphonypower.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphonypower.so \
     vendor/lge/alphalm/proprietary/vendor/lib/libtof_cal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtof_cal.so \
-    vendor/lge/alphalm/proprietary/vendor/lib/libwebrtc_audio_preprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwebrtc_audio_preprocessing.so \
     vendor/lge/alphalm/proprietary/vendor/lib/rfsa/adsp/AlacDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/AlacDecoderModule.so.1 \
     vendor/lge/alphalm/proprietary/vendor/lib/rfsa/adsp/ApeDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/ApeDecoderModule.so.1 \
     vendor/lge/alphalm/proprietary/vendor/lib/rfsa/adsp/AudioContextDetection.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/AudioContextDetection.so.1 \
@@ -809,7 +807,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphalm/proprietary/vendor/lib64/camera/liblg_awb_param_imx363n_video.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/liblg_awb_param_imx363n_video.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/camera/liblg_awb_param_imx363nb_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/liblg_awb_param_imx363nb_preview.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/camera/liblg_awb_param_imx363nb_video.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/liblg_awb_param_imx363nb_video.so \
-    vendor/lge/alphalm/proprietary/vendor/lib64/hw/audio.primary.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.msmnile.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/hw/camera.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.msmnile.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/hw/com.qti.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qti.chi.override.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/hw/fingerprint.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msmnile.so \
@@ -871,7 +868,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphalm/proprietary/vendor/lib64/libsymphonypower-1.1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsymphonypower-1.1.4.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/libsymphonypower.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsymphonypower.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/libtof_cal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtof_cal.so \
-    vendor/lge/alphalm/proprietary/vendor/lib64/libwebrtc_audio_preprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwebrtc_audio_preprocessing.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/rfsa/adsp/libsns_device_mode_skel.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so \
     vendor/lge/alphalm/proprietary/vendor/lib64/sensors.sar.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.sar.so \
